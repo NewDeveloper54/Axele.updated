@@ -57,6 +57,7 @@ h1{
     font-family: 'Inter', 'Poppins', 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
     font-size: 30px;
     filter: drop-shadow(0px 0px 0px #809197);
+    text-align: center;
 }
   
 
@@ -72,11 +73,11 @@ a{
 }
 
 .item {
-    border-radius: 15px;
+    border-radius: 25px;
     color: #809197;
     position: relative;
-    height: 220px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     background-color: white;
     display: flex;
     justify-content: center;
